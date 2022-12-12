@@ -1,4 +1,4 @@
-package mx.wansoft;
+package mx.wansoft.objetos;
 
 public class Animalito {
     private String nombre;
