@@ -1,5 +1,6 @@
 package mx.wansoft;
 
+import mx.wansoft.arraysylistas.ArrayYLista;
 import mx.wansoft.modificadoresdeacceso.ModificadoresDeAcceso;
 import mx.wansoft.pilaresProgramacion.TestPilaresProgramacion;
 import mx.wansoft.stringclass.StringClass;
@@ -35,8 +36,11 @@ public class App extends Object
         // TestPilaresProgramacion pilares = new TestPilaresProgramacion();
         // pilares.test();
 
-        StringClass strings = new StringClass();
-        strings.test();
+        // StringClass strings = new StringClass();
+        // strings.test();
+        
+        ArrayYLista.testArrays();
+        ArrayYLista.testListas();
 
     }
 }

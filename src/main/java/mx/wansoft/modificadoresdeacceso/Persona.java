@@ -4,7 +4,6 @@ public class Persona {
     public String nombrePublico = "nombre publico";
     String nombreDefaultOPackage = "nombre default o packaage";
     protected String nombreProtegido = "nombre protected";
-    private String nombrePrivado = "nombre private";
 
     public void metodoPublico() {
         System.out.println("Ejecutando metodo con modificador de acceso 'public'");

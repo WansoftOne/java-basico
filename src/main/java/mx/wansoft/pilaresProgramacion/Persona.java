@@ -1,9 +1,5 @@
 package mx.wansoft.pilaresProgramacion;
 
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.List;
-
 public class Persona {
     protected String nombre;
 
