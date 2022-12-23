@@ -48,7 +48,7 @@ public class Mapa {
 
 
         boolean contiene4 = mapa.containsKey(4);
-        mapa.containsValue(""values"")
+        mapa.containsValue("values");
         String valor4 = mapa.get(4);
         System.out.println("contine4: " + contiene4 + " valor4: " + valor4);
     }
