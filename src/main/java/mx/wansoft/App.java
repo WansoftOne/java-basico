@@ -1,6 +1,7 @@
 package mx.wansoft;
 
 import mx.wansoft.arraysylistas.ArrayYLista;
+import mx.wansoft.mapa.Mapa;
 import mx.wansoft.modificadoresdeacceso.ModificadoresDeAcceso;
 import mx.wansoft.pilaresProgramacion.TestPilaresProgramacion;
 import mx.wansoft.stringclass.StringClass;
@@ -39,8 +40,9 @@ public class App extends Object
         // StringClass strings = new StringClass();
         // strings.test();
         
-        ArrayYLista.testArrays();
-        ArrayYLista.testListas();
+        // ArrayYLista.testArrays();
+        // ArrayYLista.testListas();
+        Mapa.test();
 
     }
 }
